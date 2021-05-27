@@ -34,10 +34,10 @@ O sistema a ser desenvolvido será um controle de livros e revistas onde um usu�
 - Qualidade da arquitetura do banco de dados
 
 
-#### Instruçõe de Entrega
+#### Instruções de Entrega
 - Disponibilizar a aplicação no github
 - Incluir um arquivo README.md com instruções para instalação da aplicação
 - Enviar um email para desenvolvimento@wd7.com.br contendo:
-  -- Link do repositório 
-  -- Algum comentários sobre as soluções desenvolvidas, caso seja necessário.
-  -- Requisitos não implementados e motivos
+  * Link do repositório;
+  * Algum comentários sobre as soluções desenvolvidas, caso seja necessário;
+  * Requisitos não implementados e motivos;
